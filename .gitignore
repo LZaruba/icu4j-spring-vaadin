@@ -1,0 +1,6 @@
+bin/
+target/
+# For OS X:
+.DS_Store
+**/VAADIN/widgetsets/
+rebel.xml
