@@ -41,10 +41,10 @@ This Add-on provides you with Spring MessageSource compatible wrapper of ICU4J m
 ```
 
 ## More resources
-See the ```cz.lzaruba.icu4j.spring.vaadin.VaadinICUMessageSource``` source or JavaDoc for more details on available methods.
-See the project of the [original ICU4J + Spring combination](https://github.com/meticoeus/spring-icu/)
-See the [ICU4J syntax options](http://userguide.icu-project.org/formatparse/messages)
-See the [Demo Application](https://github.com/LZaruba/icu4j-spring-vaadin/tree/master/cz.lzaruba.icu4j.spring.vaadin.demo) 
+* See the ```cz.lzaruba.icu4j.spring.vaadin.VaadinICUMessageSource``` source or JavaDoc for more details on available methods.
+* See the project of the [original ICU4J + Spring combination](https://github.com/meticoeus/spring-icu/)
+* See the [ICU4J syntax options](http://userguide.icu-project.org/formatparse/messages)
+* Try the [Demo Application](https://github.com/LZaruba/icu4j-spring-vaadin/tree/master/cz.lzaruba.icu4j.spring.vaadin.demo) 
 
 ## Credits
 This project is based on the code from https://github.com/meticoeus/spring-icu/. 
