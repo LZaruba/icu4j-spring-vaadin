@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.vaadin.addons</groupId>
 	<artifactId>icu4j-spring-vaadin</artifactId>
-	<version>1.0</version>
+	<version>1.0.SNAPSHOT</version>
 	<packaging>bundle</packaging>
 	<organization>
 		<name>Vaadin Community</name>
@@ -24,7 +24,7 @@
 		<url>git://github.com/LZaruba/icu4j-spring-vaadin.git</url>
 		<connection>scm:git:git://github.com/LZaruba/icu4j-spring-vaadin.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com:/LZaruba/icu4j-spring-vaadin.git</developerConnection>
-	  <tag>1.0</tag>
+	  <tag>icu4j-spring-vaadin-1.0</tag>
   </scm>
 	<issueManagement>
 		<system>GitHub</system>
