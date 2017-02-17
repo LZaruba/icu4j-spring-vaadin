@@ -23,7 +23,7 @@
 	<scm>
 		<url>git://github.com/LZaruba/icu4j-spring-vaadin.git</url>
 		<connection>scm:git:git://github.com/LZaruba/icu4j-spring-vaadin.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com:/LZaruba/icu4j-spring-vaadin.git</developerConnection>
+		<developerConnection>scm:git:https://lzaruba@github.com:/LZaruba/icu4j-spring-vaadin.git</developerConnection>
 	  <tag>icu4j-spring-vaadin-1.0</tag>
   </scm>
 	<issueManagement>
